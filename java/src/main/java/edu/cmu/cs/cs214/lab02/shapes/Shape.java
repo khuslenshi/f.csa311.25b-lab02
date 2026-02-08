@@ -1,5 +1,5 @@
-package edu.cmu.cs.cs214.lab02.shapes;
+package shapes;
 
 public interface Shape {
-    
+    void draw();
 }
