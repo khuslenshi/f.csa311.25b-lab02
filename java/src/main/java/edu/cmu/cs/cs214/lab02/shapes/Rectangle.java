@@ -13,3 +13,6 @@ public class Rectangle implements Shape {
         System.out.println("Drawing Rectangle " + width + "x" + height);
     }
 }
+// Гишүүн өгөгдлүүдийг private болгож
+// гаднаас шууд хандах боломжийг хаасан
+// ингэснээр мэдээлэл нууцлал сайжирсан
