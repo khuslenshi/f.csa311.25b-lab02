@@ -6,3 +6,7 @@ public class Renderer {
         shape.draw();
     }
 }
+// Renderer класс нь Rectangle-оос хамаарахоо больж
+// зөвхөн Shape interface-оос хамаарах болсноор
+// битүүмжлэл, уян хатан байдал сайжирсан
+
